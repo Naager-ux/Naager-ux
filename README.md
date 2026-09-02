@@ -2,8 +2,8 @@
 <h3 align="center">Estudante de Tecnologia | Iniciando em programação 🚀</h3>
 
 <p align="center">
-  Apaixonado(a) por aprender e construir coisas novas. Ainda no começo da jornada,
-  mas focado(a) em evoluir todos os dias! 💻🌱
+  Apaixonado por aprender e construir coisas novas. Ainda no começo da jornada,
+  mas focado em evoluir todos os dias! 💻🌱
 </p>
 
 <br/>
