@@ -140,9 +140,9 @@
 }
 .a-gen6 { animation-name: gen6; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift0-5 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(-5px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+  100% { transform: translateY(0); }
 }
 .drift0-5 { animation: drift0-5 0.8s ease-in-out infinite; }
 @keyframes gen7 {
@@ -172,9 +172,9 @@
 }
 .a-gen9 { animation-name: gen9; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift1-7 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(7px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(7px); }
+  100% { transform: translateY(0); }
 }
 .drift1-7 { animation: drift1-7 0.92s ease-in-out infinite; }
 @keyframes gen10 {
@@ -204,9 +204,9 @@
 }
 .a-gen12 { animation-name: gen12; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift2-9 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(-9px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-9px); }
+  100% { transform: translateY(0); }
 }
 .drift2-9 { animation: drift2-9 1.04s ease-in-out infinite; }
 @keyframes gen13 {
@@ -236,9 +236,9 @@
 }
 .a-gen15 { animation-name: gen15; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift3-5 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(5px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(5px); }
+  100% { transform: translateY(0); }
 }
 .drift3-5 { animation: drift3-5 1.16s ease-in-out infinite; }
 @keyframes gen16 {
@@ -268,9 +268,9 @@
 }
 .a-gen18 { animation-name: gen18; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift0-7 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(-7px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-7px); }
+  100% { transform: translateY(0); }
 }
 .drift0-7 { animation: drift0-7 0.8s ease-in-out infinite; }
 @keyframes gen19 {
@@ -300,9 +300,9 @@
 }
 .a-gen21 { animation-name: gen21; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift1-9 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(9px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(9px); }
+  100% { transform: translateY(0); }
 }
 .drift1-9 { animation: drift1-9 0.92s ease-in-out infinite; }
 @keyframes gen22 {
@@ -488,9 +488,9 @@
 }
 .a-gen42 { animation-name: gen42; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift2-5 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(-5px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+  100% { transform: translateY(0); }
 }
 .drift2-5 { animation: drift2-5 1.04s ease-in-out infinite; }
 @keyframes gen43 {
@@ -520,9 +520,9 @@
 }
 .a-gen45 { animation-name: gen45; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift3-7 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(7px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(7px); }
+  100% { transform: translateY(0); }
 }
 .drift3-7 { animation: drift3-7 1.16s ease-in-out infinite; }
 @keyframes gen46 {
@@ -760,9 +760,9 @@
 }
 .a-gen72 { animation-name: gen72; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift0-9 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(-9px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-9px); }
+  100% { transform: translateY(0); }
 }
 .drift0-9 { animation: drift0-9 0.8s ease-in-out infinite; }
 @keyframes gen73 {
@@ -792,9 +792,9 @@
 }
 .a-gen75 { animation-name: gen75; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift1-5 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(5px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(5px); }
+  100% { transform: translateY(0); }
 }
 .drift1-5 { animation: drift1-5 0.92s ease-in-out infinite; }
 @keyframes gen76 {
@@ -1084,9 +1084,9 @@
 }
 .a-gen108 { animation-name: gen108; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift2-7 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(-7px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-7px); }
+  100% { transform: translateY(0); }
 }
 .drift2-7 { animation: drift2-7 1.04s ease-in-out infinite; }
 @keyframes gen109 {
@@ -1116,9 +1116,9 @@
 }
 .a-gen111 { animation-name: gen111; animation-duration: 32s; animation-timing-function: linear; animation-iteration-count: infinite; }
 @keyframes drift3-9 {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(9px); }
-  100% { transform: translateX(0); }
+  0% { transform: translateY(0); }
+  50% { transform: translateY(9px); }
+  100% { transform: translateY(0); }
 }
 .drift3-9 { animation: drift3-9 1.16s ease-in-out infinite; }
 @keyframes gen112 {
