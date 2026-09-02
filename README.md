@@ -8,18 +8,6 @@
 
 <br/>
 
-
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naager-ux&theme=tokyonight&hide_border=true" alt="Streak do GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naager-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
-</p>
-
 <br/>
 
 ## 👾 Space Invaders
