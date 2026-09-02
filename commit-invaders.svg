@@ -1576,7 +1576,7 @@
 <circle cx="692" cy="68" r="1" fill="#ebedf0" />
 <circle cx="692" cy="108" r="1" fill="#ebedf0" />
 <circle cx="692" cy="148" r="1" fill="#ebedf0" />
-<g transform="translate(45, 85.5)"><g class="ship-patrol"><use href="#sprite-ship" x="-7.0" y="-7.0" width="14" height="14" /></g></g>
+<g transform="translate(45, 85.5)"><g class="ship-patrol"><text x="0" y="0" text-anchor="middle" dominant-baseline="central" font-size="20">🚀</text></g></g>
 <text x="360.0" y="22" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="14" fill="#1f2328" class="a-gen1">WAVE 1/5</text>
 <text x="360.0" y="22" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="14" fill="#1f2328" class="a-gen2">WAVE 2/5</text>
 <text x="360.0" y="22" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="14" fill="#1f2328" class="a-gen3">WAVE 3/5</text>
