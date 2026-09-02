@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Naager-ux 👋</h1>
+<h1 align="center">Olá, eu sou o Naager-ux </h1>
 <h3 align="center">Estudante de Tecnologia | Iniciando em programação 🚀</h3>
 
 <p align="center">
