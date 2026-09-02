@@ -55,6 +55,3 @@
     <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders.svg" width="100%">
   </picture>
 </p>
-
-
-          
