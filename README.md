@@ -43,3 +43,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naager-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
 </p>
+
+<br/>
+
+## 👾 Space Invaders
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders.svg">
+    <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders.svg" width="100%">
+  </picture>
+</p>
