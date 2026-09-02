@@ -55,3 +55,24 @@
     <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders.svg" width="100%">
   </picture>
 </p>
+
+<pname: Generate Commit Invaders
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Goblinlordx/commit-invaders@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          <p>
+          
