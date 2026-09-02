@@ -14,8 +14,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders-dark.svg?v=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders.svg?v=6">
-    <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders.svg?v=6" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders-dark.svg?v=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders.svg?v=7">
+    <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Naager-ux/Naager-ux/output/commit-invaders.svg?v=7" width="100%">
   </picture>
 </p>
